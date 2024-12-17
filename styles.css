@@ -60,12 +60,3 @@ canvas {
     margin: 0 auto;
     border: 1px solid #000; /* Optional border for debugging */
 }
-
-/* Ensure canvas dimensions override inline styles */
-canvas {
-    width: 480px !important;
-    height: 480px !important;
-    display: block;
-    margin: 0 auto;
-    border: 1px solid #000; /* Optional border for debugging */
-}
